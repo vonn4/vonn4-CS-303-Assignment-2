@@ -9,8 +9,8 @@ This project implements two fundamental data structures in C++:
 The project consists of the following files:
 
 Single_Linked_List.h: Header file containing the template class for the Singly Linked List.
-Stack_Vector.h: Header file containing the declaration of the `Stack` class.
-Stack_Vector.cpp: Implementation of the `Stack` class methods.
+Stack_Vector.h: Header file containing the declaration of the Stack class.
+Stack_Vector.cpp: Implementation of the Stack class methods.
 main.cpp: Main program that provides an interactive menu for performing operations on the Singly Linked List and Stack.
 README.md: This file containing instructions and information about the project.
 
